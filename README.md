@@ -1,4 +1,4 @@
-# ExampleWindowsService
+# Example Windows Service
 
 Simple windows service project showing how to use Prefix and Retrace with common scenarios
 
